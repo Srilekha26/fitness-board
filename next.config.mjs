@@ -1,7 +1,7 @@
 // next.config.mjs
 export default {
   output: 'export',
-  basePath: '/fitness-dashboard',
-  assetPrefix: '/fitness-dashboard/',
+  basePath: '/fitness-board',
+  assetPrefix: '/fitness-board',
   images: { unoptimized: true },
 };
